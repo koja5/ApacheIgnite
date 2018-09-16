@@ -1,5 +1,3 @@
-#Apache Ignite - primer upotrebe
-
 # Instalacija
 
 Možete skinuti *Apache Ignite* sa zvaničnog sajta: <a href="https://ignite.apache.org/download.cgi" rel="noopener" target="_blank">OVDE</a> Postoji više formata koje možete preuzeti: *binary*, *sources*, *Docker or Cloud images* ili *maven*. Mi ćemo prikazati primer *maven* instalacije. Da bi smo mogli da koristimo *Apache Ignite* potrebno je sledeće:
